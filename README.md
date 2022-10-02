@@ -19,8 +19,6 @@ Favorite Anime Rank
 2. Gintama
 3. Jojo's Bizzare Adventure
 Task to Do 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] CSE110 Lab1
+- [ ] homework for JAPN 10A
+- [ ] ROS training
