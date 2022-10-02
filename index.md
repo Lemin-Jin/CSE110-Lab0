@@ -14,10 +14,14 @@ This a relative link to a [Sad Cat](sadCat100.PNG) from CSE100.
 Below is a list of programming languague I like
 - HDL (SystemVerilog)
 - C/C++
+  
+
 Favorite Anime Rank
 1. Monogatari Series 
 2. Gintama
 3. Jojo's Bizzare Adventure
+
+
 Task to Do 
 - [x] CSE110 Lab1
 - [ ] homework for JAPN 10A
